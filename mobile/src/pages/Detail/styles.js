@@ -61,9 +61,9 @@ export default StyleSheet.create({
     },
 
     actions:{
-        marginTop: 16,
-        justifyContent: 'space-between',
+        marginTop: 50,
         flexDirection: 'row',
+        justifyContent: 'space-between',
         
     },
 
@@ -81,6 +81,8 @@ export default StyleSheet.create({
         fontSize: 15,
         fontWeight: 'bold'
     }
+
+    
 
 
 

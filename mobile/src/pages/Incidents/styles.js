@@ -21,9 +21,11 @@ export default StyleSheet.create({
         color: '#737380'
 
     },
-    headerText:{
+    headerTextBold:{
+
         fontSize:15,
         color: '#737380',
+        fontWeight: 'bold'
     },
 
     title:{
